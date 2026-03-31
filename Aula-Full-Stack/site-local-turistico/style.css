@@ -1,0 +1,191 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url(assets/bandeiracanada.jpg);
+}
+
+.container {
+  max-width: 900px; /* Largura máxima. Max-width define o tamanho máximo 
+  que um elemento pode ter na tela. Ele permite que o elemento diminua 
+  em telas menores, mas nunca ultrapasse o limite definido.
+Isso ajuda a manter o site responsivo e sem quebrar o layout. */
+  margin: 40px auto; /* Espaçamento externo. . É a propriedade usada para 
+  definir o espaço ao redor de um elemento, separando-o de outros elementos 
+  vizinhos ou da borda da tela. */
+  padding: 20px; /* Significa espaçamento interno. O padding fica dentro 
+  da borda (border) do elemento. */
+}
+.destaque1 {
+  /*Sua próxima viagem*/
+  color: red;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 10px 0 20px;
+}
+
+.foto-topo {
+  width: 100%; /* Largura: 100%. Faz com que o elemento ocupe toda a largura disponível 
+  do contêiner onde ele está inserido (o elemento "pai"). 
+  Ele se ajusta automaticamente ao tamanho da tela.*/
+  border-radius: 16px; /* Arredonda os quatro cantos do elemento*/
+  margin-bottom: 20px; /* Adiciona um espaço em branco de 20 pixels 
+  abaixo do elemento, separando-o do próximo item que vier depois dele*/
+}
+
+.descrição {
+  color: #555;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.destaque2 {
+  color: red;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.subtitulo {
+  /*h2*/
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.foto-neve {
+  width: 100%;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+.descrição2 {
+  color: #555;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.destaque3 {
+  /*A magia do Canadá*/
+  color: red; /* Cor da fonte. */
+  font-size: 12px; /* Tamanho da fonte ou da letra.*/
+  font-weight: bold; /* Peso ou espessura da fonte. */
+  letter-spacing: 2px; /* Espaçamento entre letras. Aumenta o espaço em branco 
+  entre cada caractere (letra) de um texto.*/
+  text-transform: uppercase; /* Força todos os caracteres a ficarem em maiúsculas.*/
+}
+
+.subtitulo {
+  /*h2*/
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  /* 1.Parc du Mon Royal*/
+}
+
+.foto-mont {
+  width: 100%;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+.descrição3 {
+  color: #555;
+  line-height: 24px; /* Altura da linha. Ela define o espaçamento vertical 
+  entre as linhas de texto, também conhecido como entrelinha.*/
+  margin-bottom: 10px;
+}
+
+h3 {
+  /* 2. Biosfera*/
+}
+
+.foto-bio {
+  width: 100%;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+.biosfera {
+  color: #555;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  /*The ring*/
+}
+.foto-ring {
+  width: 100%;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+.descrição4 {
+  color: #555;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+h3 {
+  /*biodomo*/
+}
+
+.foto-biodomo {
+  width: 100%;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+.descrição5 {
+  color: #555;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  /*Old Port*/
+}
+
+.foto-oldport {
+  width: 100%;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+.descrição6 {
+  color: #555;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.destaque4 {
+  color: red;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+h3 {
+  /*Descubra Montreal: Cultura, História e Encanto em Cada Esquina*/
+}
+
+.descrição7 {
+  color: #555;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: rgb(250, 179, 179);
+  color: #555;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 14px;
+  margin-top: 100px;
+}
